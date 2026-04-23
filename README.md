@@ -2,7 +2,7 @@
 
 A lightweight tool that audits any website URL against the signals AI crawlers actually use: structured data, document semantics, content format, entity clarity, and crawlability.
 
-**Live demo:** [your-vercel-url.vercel.app]
+**Live demo:** https://checkmate-one-pi.vercel.app
 
 ---
 
