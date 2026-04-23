@@ -91,7 +91,3 @@ The frontend is already structured to swap in a real API call in `app.js` withou
 - Zero dependencies, zero build tools, zero config
 
 ---
-
-## Write-up
-
-See `writeup.md` for a technical explanation of how this audit works and why AI readiness matters now.
